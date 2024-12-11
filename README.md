@@ -1,54 +1,75 @@
-# Shield Insurance Insights
+<h1 align="center">Hi 👋, I'm Harshith</h1>
+<h5 align="center">🚀 Data Analyst | Storyteller with Data | Passionate Learner</h5>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3498db&center=true&width=600&lines=Identify+Problem;Gather+Data;Analyze+Data;Find+Solutions" alt="Typing Animation" />
+</p>
 
-Welcome to the **Shield Insurance Insights** Power BI Dashboard. This dashboard provides a detailed analysis of revenue, customer demographics, and policy performance for an insurance company. It is designed to help users make data-driven decisions regarding insurance policies, sales modes, and customer segmentation.
-
-## Introduction
-The Shield Insurance Insights dashboard is designed to give a comprehensive view of the company's key metrics. This includes information about revenue distribution by city, sales mode, policy type, and age group. The dashboard also highlights settlement percentages, customer segments, and revenue trends. The insights provided will help optimize decision-making for better sales strategies and customer satisfaction.
-![Shield Insurance Insights_page-0001](https://github.com/user-attachments/assets/d4a07082-d468-40a3-8f62-222122aef5f5)
-
----
-
-## Dashboard Overview
-
-### 1. **Overview Tab**
-The Overview tab presents a high-level summary of the company's total revenue, customer count, and sales data. It includes:
-![Shield Insurance Insights_page-0002](https://github.com/user-attachments/assets/51784c54-a16d-406d-8e57-538bb5e3227c)
-
-- **Total Revenue**: $989.3M across all insurance policies.
-- **Customers**: 26.8K total customers.
-- **Revenue Trend**: A visualization of revenue trends across different months and years.
-- **Sales Mode Distribution**: Breakdown of sales modes, such as Offline-Agent, Offline-Direct, Online-App, and Online-Website.
-
-### 2. **Sales View Tab**
-The Sales View focuses on city-wise and policy-wise revenue data:
-![Shield Insurance Insights_page-0003](https://github.com/user-attachments/assets/150893a8-2dd1-430f-895a-a5f55799186c)
-
-- **City-Wise Revenue**: Displays the revenue generated from major cities such as Delhi, Mumbai, Hyderabad, Chennai, and Indore.
-- **Revenue by Policy Type**: Shows the revenue associated with different policy IDs, allowing users to see which policies are performing well.
-
-### 3. **Age Group View Tab**
-This tab breaks down the revenue, customer count, and settlement percentages by age groups:
-![Shield Insurance Insights_page-0004](https://github.com/user-attachments/assets/31006fc6-ebe8-4eac-9222-c3d931008eac)
-
-- **Age-Wise Revenue**: Revenue is segmented by age groups: 13-19, 20-29, 30-44, 45-59, and 60+.
-- **Settlement Percentages**: Displays settlement success rates for each age group, providing a better understanding of customer satisfaction.
-- **Sales Mode by Age Group**: Shows how different age groups prefer to buy insurance policies (via agents, direct sales, online apps, or websites).
-- **Policy Type by Age Group**: Maps which age group is buying specific types of policies.
+## 🖋️ About Me
+- 🌱 Constantly learning **advanced analytics, Tableau, and Power BI**.
+- 🎯 My focus: **Data storytelling and insights for decision-making**.
+- 💬 Ask me about **SQL, Python, Data Analysis, and Dashboards**.
+- 📧 Contact me at **[harshit.email@example.com](mailto:harshit.email@example.com)**.
 
 ---
 
-## Key Insights
-1. **Revenue by Age Bin**: Adults (30-44 years) contribute the most revenue at **$440.19M**, followed by Seniors (60+ years) with **$251.95M**, while Teens (13-19 years) generate the least at **$4.58M**.
-2. **Top Performing City**: **Delhi** leads in revenue generation with **$401.57M**, followed by **Mumbai** at **$239.51M**. The city with the lowest revenue is **Indore**, contributing **$81.35M**.
-3. **Revenue by Sales Mode**: The **Offline Agent** sales mode dominates with **55%** of the total revenue, while **Online Website** and **Offline Direct** modes both contribute **16%** each.
-4. **Customer Distribution by Sales Mode**: A majority of customers (**56%**) prefer the **Offline Agent** mode, followed by **16%** who use the **Online Website** and **Offline Direct** channels.
-5. **Settlement Rate by Age Group**: The **Senior** age group has the highest average settlement rate of **70.25%**, followed by the **Middle-Aged** group at **63.28%**, showing strong customer service performance for older customers.
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshith-VC&show_icons=true&theme=algolia" alt="GitHub Stats" />
+</p>
+
 
 ---
 
-## Recommendations
-1. **Target Adult and Young Adult Customers**: Since these groups contribute the most to revenue, marketing efforts should focus on attracting and retaining customers aged 18-35.
-2. **Expand Presence in Delhi and Other Top Cities**: With Delhi leading in revenue, additional efforts should be made to further penetrate this market while also growing in cities like Mumbai and Hyderabad.
-3. **Optimize Online Sales Channels**: With a significant portion of sales coming from offline modes, there is an opportunity to increase revenue by improving online platforms such as the app and website.
-4. **Improve Settlement Rates for Younger Customers**: The settlement percentage for customers aged 13-29 is lower. Measures should be taken to improve customer support and policy flexibility for younger age groups.
-5. **Focus on High-Performing Policies**: Continue promoting policies like **POL2005HEL** and explore what makes them popular to replicate their success with other policy types.
+## 🗂️ Featured Projects
+
+| **Project Name**                                                                                      | **Tools Used**             | **Domain**              |
+|-------------------------------------------------------------------------------------------------------|----------------------------|-------------------------|
+| [**HR Attrition Analysis**](https://github.com/Harshith-VC/HR-Attrition-Analysis)                     | Python, Pandas, Matplotlib | HR Analytics            |
+| [**AtliQ Sales Reports**](https://github.com/Harshith-VC/AtliQ-Sales-Finance-Reports)                 | Power BI, Excel            | Sales and Finance       |
+| [**Business Insights 360**](https://github.com/Harshith-VC/Business-Insights-360)                    | Power BI                   | Data Visualization      |
+| [**Hospitality Data Analysis**](https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python)   | Python, Pandas             | Hospitality             |
+| [**Zomato Data Analysis**](https://github.com/Harshith-VC/Zomato-Data-Analysis)                       | Python, Matplotlib         | Food Industry           |
+| [**Twitter Sentiment Analysis**](https://github.com/Harshith-VC/Twitter-sentiment-Extaction-Analysis) | Python, NLP Libraries      | Sentiment Analysis      |
+| [**IPL 2024 Insights**](https://github.com/Harshith-VC/IPL-2024-Magazine-)                           | Python, Pandas             | Sports Analytics        |
+| [**Spotify Song Analysis**](https://github.com/Harshith-VC/Spotify-Songs-Analysis)                   | Python, Seaborn            | Entertainment           |
+
+---
+
+## 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+---
+## 👨‍💻 Check Out My Work
+- 💼 **[Project Portfolio](https://codebasics.io/portfolio/Harshith-V-C)**: Explore detailed dashboards and data insights.
+- 🌐 **[Personal Website](#)**: Coming soon!
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshithvc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/harshithacharya6/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/harshithacharya6" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Fun Facts
+- 🖼️ Always looking for new ways to make data visually engaging.
+- 🎯 Driven to solve real-world problems with meaningful insights.
+- 🌟 Strong believer in the power of storytelling with data.
+
